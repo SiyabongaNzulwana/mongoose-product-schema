@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-product-schema",
+  "type": "commonjs",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiyabongaNzulwana/product-schema.git"
+  },
+  "author": "Siyabonga Nzulwana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiyabongaNzulwana/product-schema/issues"
+  },
+  "homepage": "https://github.com/SiyabongaNzulwana/product-schema#readme",
+  "dependencies": {
+    "mongoose": "^7.4.4"
+  }
+}
